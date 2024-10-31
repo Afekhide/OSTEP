@@ -23,12 +23,12 @@ enum STATUS {
 
 int main(int argc, char *argv[]) {
 	if (argc < 2) {
-		std::string help_message = R"(Usage: wcat file1, [file2, file3, ...])";
+		std::string help_message = R"(Usage: wcat "file1", ["file2", "file3", ...])";
 		std::cout << help_message;
 		return STATUS::NO_ARGUMENTS_PASSED;
 	}
 
-	/*Assuming we passed files to th command, 
+	/*Assuming we passed files to the command, 
 	we can then loop through the arguments array, printing each file content
 	*/
 
