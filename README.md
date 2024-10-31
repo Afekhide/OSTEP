@@ -6,4 +6,4 @@ This project is part of the projects presented in the book `Operating Systems, T
 **BUILD**
 The code was written as a VS2022 project, although a simple `gcc` command should build the file.
 Using MsBuild: `
-msbuild Pointers.vcxproj /p:configuration=release`
+msbuild wcat.vcxproj /p:configuration=release`
