@@ -3,7 +3,7 @@
 * Submission for the OSTEP Projects
 * Category: Initial Projects/Unix Utilities
 * Project: wcat
-* Author: Dlite/Afekhide
+* Author: Dlite/Prosper
 * 
 * Usage: wcat [file1, file2, file3...]
 * Link to Projects page: aHR0cHM6Ly9naXRodWIuY29tL3JlbXppLWFycGFjaWR1c3NlYXUvb3N0ZXAtcHJvamVjdHM=
